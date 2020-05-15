@@ -1,1 +1,1 @@
-This repo is for all interview prep content
+This repo is for all interview prep content based on 'Cracking the Coding Interview' book.
