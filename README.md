@@ -5,3 +5,4 @@ Sections include: Big-O practice
 
 Before Interview:
 1) Go over Big-O again (pages 38-59)
+  i) Optimize exponential time recursive algorithms with memoization
