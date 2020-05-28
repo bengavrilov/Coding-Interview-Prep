@@ -24,5 +24,5 @@ ArrayList & Resizable Arrays:
 -> Each time the array reaches capacity it doubles in size.\
 -> Each doubling takes O(N) time, but happens so rarely that its amortized insertion time is O(1).\
 
-StringBuilder:
+StringBuilder:\
 -> StringBuilder simply creates a resizable array of all the strings, copying them back to a string only when necessary
