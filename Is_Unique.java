@@ -24,3 +24,27 @@ boolean isUniqueChars(String str) {
  * If you didn't want to assume the character set is fixed, you could express the complexity as O(c) space
  * and O(min(c, n)) or O(c) time, where c is the size of the character set.
 */
+
+// Solution 2
+boolean isUniqueChars2(String str) {
+    int checker = 0;
+    for (int i = 0; i <str.length(); i++) {
+        int val = str.charAt(i) - 'a';
+        if ((checker && (1 << val)) > 0) {
+            return false;
+        }
+        checker |= (1 << val);
+    }
+    return true;
+}
+
+/*
+ * Summary
+ * Reduces space usage by a factor of 8 using a bit vector.
+*/
+
+/*
+ * If we aren't allowed to use additional data structures:
+ * 1. Compare every character in the string to the rest of the characters- O(n^2)
+ * 2. Sort the string in O(n log(n)) time and then lineary check all neighbours
+*/
