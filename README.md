@@ -19,7 +19,7 @@ Hash Tables:
 -> Worst case runtime is O(N) where N is the number of keys. Generally the lookup time is O(1).\
 -> Alternatively, we can implement the hash table with a balanced binary search tree which gives us an O(log N) worst case runtime\
 
-ArrayList & Resizable Arrays:
+ArrayList & Resizable Arrays:\
 -> When you need an array-like data structure that offers dynamic resizing, you would usually use an ArrayList.\
 -> Each time the array reaches capacity it doubles in size.\
 -> Each doubling takes O(N) time, but happens so rarely that its amortized insertion time is O(1).\
