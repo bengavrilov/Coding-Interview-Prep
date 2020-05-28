@@ -10,7 +10,7 @@ i) Optimize exponential time recursive algorithms with memoization
 i) Study funadamental concepts on page 61
 ii) Go over approaching a problem tactics
 
-**Chapter 1**
+**Chapter 1**\
 Hash Tables: 
 1) Compute the key's hash code,which will usually be an int or long. Note that two different keys could have the same hash code, as there may be an infinite number of keys and a finite number of ints
 2) Then, map the hash codr to an index in the array. This could be done with something like hash(key) % array_length. Two different hash codes could, of course, map to the same index
