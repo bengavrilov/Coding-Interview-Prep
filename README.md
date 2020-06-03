@@ -25,4 +25,8 @@ ArrayList & Resizable Arrays:\
 -> Each doubling takes O(N) time, but happens so rarely that its amortized insertion time is O(1).\
 
 StringBuilder:\
--> StringBuilder simply creates a resizable array of all the strings, copying them back to a string only when necessary
+-> StringBuilder simply creates a resizable array of all the strings, copying them back to a string only when \
+
+Linked Lists:\
+
+
