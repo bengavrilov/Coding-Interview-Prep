@@ -27,6 +27,6 @@ ArrayList & Resizable Arrays:\
 StringBuilder:\
 -> StringBuilder simply creates a resizable array of all the strings, copying them back to a string only when \
 
-Linked Lists:\
+Linked Lists:
 
 
