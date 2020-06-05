@@ -29,4 +29,5 @@ StringBuilder:\
 
 Linked Lists:
 
-Note: Having a runner that iterates at a different pace can help solve problems
+Note: Having a runner that iterates at a different pace can help solve problems \
+Stacks and Queues:
