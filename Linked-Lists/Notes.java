@@ -115,6 +115,7 @@ public class Notes {
 		return isEqual(head, reversed);
 	}
 		
+	// reverse
 	public static LinkedListNode reverseAndClone(LinkedListNode node) {
 		LinkedListNode head = null;
 		while (node != null) {
