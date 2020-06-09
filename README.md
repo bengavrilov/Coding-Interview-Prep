@@ -27,7 +27,10 @@ ArrayList & Resizable Arrays:\
 StringBuilder:\
 -> StringBuilder simply creates a resizable array of all the strings, copying them back to a string only when \
 
+**Chapter 2**\
 Linked Lists:
 
 Note: Having a runner that iterates at a different pace can help solve problems \
-Stacks and Queues:
+
+**Chapter 3**\
+Stacks and Queues: (self explanatory)
