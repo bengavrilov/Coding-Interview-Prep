@@ -33,4 +33,5 @@ Linked Lists:
 Note: Having a runner that iterates at a different pace can help solve problems \
 
 **Chapter 3**\
-Stacks and Queues: (self explanatory)
+Stacks and Queues: (self explanatory)\
+-> Implement a queue with two stacks
