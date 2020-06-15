@@ -34,4 +34,7 @@ Note: Having a runner that iterates at a different pace can help solve problems 
 
 **Chapter 3**\
 Stacks and Queues: (self explanatory)\
--> Implement a queue with two stacks- yea/ really lacking
+-> Implement a queue with two stacks\
+
+**Chapter 4**\
+Trees and Graphs:
