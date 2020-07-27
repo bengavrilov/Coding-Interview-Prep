@@ -38,4 +38,4 @@ Stacks and Queues: (self explanatory)\
 
 **Chapter 4**\
 Trees and Graphs:
-(list definitions) 
+
